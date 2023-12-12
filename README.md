@@ -1,5 +1,8 @@
 # aerial.nvim
 
+**Optiniated fork of the original [aerial.nvim](https://github.com/stevearc/aerial.nvim)**
+**Difference is in the xml query which is not of general use**
+
 A code outline window for skimming and quick navigation
 
 <!-- TOC -->
